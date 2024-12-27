@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Khushi&#39;s Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://sin317.github.io:1313/tags/</link>
     <description>Recent content in Tags on Khushi&#39;s Blog</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Oct 2024 23:17:55 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Dec 2024 12:09:13 -0800</lastBuildDate>
+    <atom:link href="https://sin317.github.io:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investing</title>
+      <link>https://sin317.github.io:1313/tags/investing/</link>
+      <pubDate>Wed, 25 Dec 2024 12:09:13 -0800</pubDate>
+      <guid>https://sin317.github.io:1313/tags/investing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://sin317.github.io:1313/tags/blog/</link>
+      <pubDate>Wed, 25 Dec 2024 12:03:38 -0800</pubDate>
+      <guid>https://sin317.github.io:1313/tags/blog/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Sonarcloud</title>
-      <link>http://localhost:1313/tags/sonarcloud/</link>
+      <link>https://sin317.github.io:1313/tags/sonarcloud/</link>
       <pubDate>Wed, 09 Oct 2024 23:17:55 -0700</pubDate>
-      <guid>http://localhost:1313/tags/sonarcloud/</guid>
+      <guid>https://sin317.github.io:1313/tags/sonarcloud/</guid>
       <description></description>
     </item>
   </channel>
