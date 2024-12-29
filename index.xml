@@ -36,5 +36,32 @@
       <guid>https://sin317.github.io/posts/sonarcloudlearning/</guid>
       <description>My exploration and debugging in sonarcloud</description>
     </item>
+    <item>
+      <title>Khushi&#39;s Portfolio</title>
+      <link>https://sin317.github.io/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sin317.github.io/portfolio/</guid>
+      <description>&lt;h2 id=&#34;-about&#34;&gt;👩‍💻 About&lt;/h2&gt;
+&lt;p&gt;Hello! I am Khushi, a master&amp;rsquo;s student in Computer Science at RIT with a strong foundation in software development, backend engineering, and AI/ML. I am passionate about creating efficient, scalable systems and solving challenging technical problems.
+
+&lt;div style=&#34;display: flex; gap: 10px; justify-content: center; margin: 20px 0;&#34;&gt;
+  &lt;a href=&#34;https://drive.google.com/file/d/1tywHkH8mZuFB8QDfWGY9HfgY7KbmqERL/view?usp=drive_link&#34; 
+     target=&#34;_blank&#34; 
+     style=&#34;text-decoration: none; padding: 10px 20px; 
+            background-color: #007acc; color: white; 
+            border-radius: 5px; font-weight: bold; 
+            display: inline-block; text-align: center;&#34;&gt;
+    📄 Download Resume
+  &lt;/a&gt;
+  &lt;a href=&#34;#-contact-me&#34; 
+     style=&#34;text-decoration: none; padding: 10px 20px; 
+            background-color: #007acc; color: white; 
+            border-radius: 5px; font-weight: bold; 
+            display: inline-block; text-align: center;&#34;&gt;
+    Go to Contact Form
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
