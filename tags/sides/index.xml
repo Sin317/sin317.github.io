@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Recipes on Khushi&#39;s Blog</title>
-    <link>https://sin317.github.io/categories/recipes/</link>
-    <description>Recent content in Recipes on Khushi&#39;s Blog</description>
+    <title>Sides on Khushi&#39;s Blog</title>
+    <link>https://sin317.github.io/tags/sides/</link>
+    <description>Recent content in Sides on Khushi&#39;s Blog</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Jan 2025 10:28:25 -0800</lastBuildDate>
-    <atom:link href="https://sin317.github.io/categories/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sin317.github.io/tags/sides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Babycorn Palya</title>
       <link>https://sin317.github.io/posts/babycorn_palya/</link>
       <pubDate>Sat, 11 Jan 2025 10:28:25 -0800</pubDate>
       <guid>https://sin317.github.io/posts/babycorn_palya/</guid>
       <description>How to make babycorn palya with kurma style</description>
-    </item>
-    <item>
-      <title>Plantaincake</title>
-      <link>https://sin317.github.io/posts/plantaincake/</link>
-      <pubDate>Fri, 27 Dec 2024 19:17:35 -0800</pubDate>
-      <guid>https://sin317.github.io/posts/plantaincake/</guid>
-      <description>Recipe for a delicious cake</description>
     </item>
   </channel>
 </rss>
