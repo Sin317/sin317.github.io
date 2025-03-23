@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sin317.github.io/</loc>
+    <lastmod>2025-03-22T22:54:53-07:00</lastmod>
+  </url><url>
+    <loc>https://sin317.github.io/posts/ollama/</loc>
+    <lastmod>2025-03-22T22:54:53-07:00</lastmod>
+  </url><url>
+    <loc>https://sin317.github.io/posts/</loc>
+    <lastmod>2025-03-22T22:54:53-07:00</lastmod>
+  </url><url>
     <loc>https://sin317.github.io/categories/</loc>
     <lastmod>2025-03-15T23:44:42-07:00</lastmod>
   </url><url>
@@ -12,12 +21,6 @@
     <lastmod>2025-03-15T23:44:42-07:00</lastmod>
   </url><url>
     <loc>https://sin317.github.io/posts/holi_2025/</loc>
-    <lastmod>2025-03-15T23:44:42-07:00</lastmod>
-  </url><url>
-    <loc>https://sin317.github.io/</loc>
-    <lastmod>2025-03-15T23:44:42-07:00</lastmod>
-  </url><url>
-    <loc>https://sin317.github.io/posts/</loc>
     <lastmod>2025-03-15T23:44:42-07:00</lastmod>
   </url><url>
     <loc>https://sin317.github.io/tags/</loc>

@@ -6,8 +6,15 @@
     <description>Recent content on Khushi&#39;s Blog</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Mar 2025 23:44:42 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 22:54:53 -0700</lastBuildDate>
     <atom:link href="https://sin317.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ollama</title>
+      <link>https://sin317.github.io/posts/ollama/</link>
+      <pubDate>Sat, 22 Mar 2025 22:54:53 -0700</pubDate>
+      <guid>https://sin317.github.io/posts/ollama/</guid>
+      <description>Desc Text.</description>
+    </item>
     <item>
       <title>Holi_2025</title>
       <link>https://sin317.github.io/posts/holi_2025/</link>
