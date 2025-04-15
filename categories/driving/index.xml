@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Driving on Khushi&#39;s Blog</title>
+    <link>https://sin317.github.io/categories/driving/</link>
+    <description>Recent content in Driving on Khushi&#39;s Blog</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Apr 2025 19:35:12 -0700</lastBuildDate>
+    <atom:link href="https://sin317.github.io/categories/driving/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Driving</title>
+      <link>https://sin317.github.io/posts/driving/</link>
+      <pubDate>Mon, 14 Apr 2025 19:35:12 -0700</pubDate>
+      <guid>https://sin317.github.io/posts/driving/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>
